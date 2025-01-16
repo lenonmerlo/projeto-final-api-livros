@@ -1,6 +1,6 @@
 # Projeto Final - API de Livros
 
-Este projeto é uma API de gerenciamento de livros, desenvolvida como parte do projeto final do curso de [insira o nome do curso ou disciplina aqui]. A API permite realizar operações CRUD (Criar, Ler, Atualizar, Deletar) em um banco de dados de livros, com funcionalidades de autenticação e autorização.
+Este projeto é uma API de gerenciamento de livros, desenvolvida como parte do projeto final do curso de Backend OneBitCode módulo Node. A API permite realizar operações CRUD (Criar, Ler, Atualizar, Deletar) em um banco de dados de livros, com funcionalidades de autenticação e autorização.
 
 ## Tecnologias Utilizadas
 
